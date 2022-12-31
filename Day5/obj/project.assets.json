@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zanthous\\source\\repos\\AdventOfCodeConsole\\Day5\\Day5.csproj",
-      "projectName": "Day5",
-      "projectPath": "C:\\Users\\Zanthous\\source\\repos\\AdventOfCodeConsole\\Day5\\Day5.csproj",
+      "projectUniqueName": "C:\\Users\\Zanthous\\source\\repos\\AdventOfCodeConsole\\Day5\\Day05.csproj",
+      "projectName": "Day05",
+      "projectPath": "C:\\Users\\Zanthous\\source\\repos\\AdventOfCodeConsole\\Day5\\Day05.csproj",
       "packagesPath": "C:\\Users\\Zanthous\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Zanthous\\source\\repos\\AdventOfCodeConsole\\Day5\\obj\\",
       "projectStyle": "PackageReference",

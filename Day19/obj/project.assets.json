@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zanthous\\source\\repos\\AdventOfCodeConsole\\Day1\\Day1.csproj",
-      "projectName": "Day1",
-      "projectPath": "C:\\Users\\Zanthous\\source\\repos\\AdventOfCodeConsole\\Day1\\Day1.csproj",
+      "projectUniqueName": "C:\\Users\\Zanthous\\source\\repos\\AdventOfCodeConsole\\Day19\\Day19.csproj",
+      "projectName": "Day19",
+      "projectPath": "C:\\Users\\Zanthous\\source\\repos\\AdventOfCodeConsole\\Day19\\Day19.csproj",
       "packagesPath": "C:\\Users\\Zanthous\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zanthous\\source\\repos\\AdventOfCodeConsole\\Day1\\obj\\",
+      "outputPath": "C:\\Users\\Zanthous\\source\\repos\\AdventOfCodeConsole\\Day19\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zanthous\\AppData\\Roaming\\NuGet\\NuGet.Config",
