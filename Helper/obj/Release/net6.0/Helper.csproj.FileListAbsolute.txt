@@ -1,0 +1,5 @@
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Helper\obj\Release\net6.0\Helper.csproj.AssemblyReference.cache
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Helper\obj\Release\net6.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Helper\obj\Release\net6.0\Helper.AssemblyInfoInputs.cache
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Helper\obj\Release\net6.0\Helper.AssemblyInfo.cs
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Helper\obj\Release\net6.0\Helper.csproj.CoreCompileInputs.cache

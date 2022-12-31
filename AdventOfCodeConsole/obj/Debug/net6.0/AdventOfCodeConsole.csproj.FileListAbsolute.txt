@@ -1,0 +1,15 @@
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\AdventOfCodeConsole\bin\Debug\net6.0\AdventOfCodeConsole.exe
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\AdventOfCodeConsole\bin\Debug\net6.0\AdventOfCodeConsole.deps.json
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\AdventOfCodeConsole\bin\Debug\net6.0\AdventOfCodeConsole.runtimeconfig.json
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\AdventOfCodeConsole\bin\Debug\net6.0\AdventOfCodeConsole.dll
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\AdventOfCodeConsole\bin\Debug\net6.0\AdventOfCodeConsole.pdb
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\AdventOfCodeConsole\obj\Debug\net6.0\AdventOfCodeConsole.csproj.AssemblyReference.cache
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\AdventOfCodeConsole\obj\Debug\net6.0\AdventOfCodeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\AdventOfCodeConsole\obj\Debug\net6.0\AdventOfCodeConsole.AssemblyInfoInputs.cache
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\AdventOfCodeConsole\obj\Debug\net6.0\AdventOfCodeConsole.AssemblyInfo.cs
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\AdventOfCodeConsole\obj\Debug\net6.0\AdventOfCodeConsole.csproj.CoreCompileInputs.cache
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\AdventOfCodeConsole\obj\Debug\net6.0\AdventOfCodeConsole.dll
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\AdventOfCodeConsole\obj\Debug\net6.0\refint\AdventOfCodeConsole.dll
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\AdventOfCodeConsole\obj\Debug\net6.0\AdventOfCodeConsole.pdb
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\AdventOfCodeConsole\obj\Debug\net6.0\AdventOfCodeConsole.genruntimeconfig.cache
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\AdventOfCodeConsole\obj\Debug\net6.0\ref\AdventOfCodeConsole.dll

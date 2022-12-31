@@ -1,0 +1,17 @@
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day7\bin\Release\net6.0\Day7.exe
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day7\bin\Release\net6.0\input - Copy.txt
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day7\bin\Release\net6.0\input.txt
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day7\bin\Release\net6.0\Day7.deps.json
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day7\bin\Release\net6.0\Day7.runtimeconfig.json
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day7\bin\Release\net6.0\Day7.dll
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day7\bin\Release\net6.0\Day7.pdb
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day7\obj\Release\net6.0\Day7.csproj.AssemblyReference.cache
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day7\obj\Release\net6.0\Day7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day7\obj\Release\net6.0\Day7.AssemblyInfoInputs.cache
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day7\obj\Release\net6.0\Day7.AssemblyInfo.cs
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day7\obj\Release\net6.0\Day7.csproj.CoreCompileInputs.cache
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day7\obj\Release\net6.0\Day7.dll
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day7\obj\Release\net6.0\refint\Day7.dll
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day7\obj\Release\net6.0\Day7.pdb
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day7\obj\Release\net6.0\Day7.genruntimeconfig.cache
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day7\obj\Release\net6.0\ref\Day7.dll
