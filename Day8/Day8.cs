@@ -1,4 +1,4 @@
-﻿////this one sucked because I didn't realize in part2 a row going right from 5 4 4 2 3 5
+﻿\////this one sucked because I didn't realize in part2 a row going right from 5 4 4 2 3 5
 ////would have a score of 5 and not 3 or 2, the examples only were sufficient to know it wasn't 2
 
 //var text = File.ReadAllLines("input.txt");
