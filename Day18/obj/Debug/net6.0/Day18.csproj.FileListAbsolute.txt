@@ -1,0 +1,16 @@
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day18\bin\Debug\net6.0\Day18.exe
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day18\bin\Debug\net6.0\input.txt
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day18\bin\Debug\net6.0\Day18.deps.json
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day18\bin\Debug\net6.0\Day18.runtimeconfig.json
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day18\bin\Debug\net6.0\Day18.dll
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day18\bin\Debug\net6.0\Day18.pdb
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day18\obj\Debug\net6.0\Day18.csproj.AssemblyReference.cache
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day18\obj\Debug\net6.0\Day18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day18\obj\Debug\net6.0\Day18.AssemblyInfoInputs.cache
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day18\obj\Debug\net6.0\Day18.AssemblyInfo.cs
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day18\obj\Debug\net6.0\Day18.csproj.CoreCompileInputs.cache
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day18\obj\Debug\net6.0\Day18.dll
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day18\obj\Debug\net6.0\refint\Day18.dll
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day18\obj\Debug\net6.0\Day18.pdb
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day18\obj\Debug\net6.0\Day18.genruntimeconfig.cache
+C:\Users\Zanthous\source\repos\AdventOfCodeConsole\Day18\obj\Debug\net6.0\ref\Day18.dll
